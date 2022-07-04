@@ -1,0 +1,992 @@
+.netcon-logo {
+    position:absolute;
+    height: 48px;
+    width: 121px;
+    left: 100px;
+    top: 24px;
+}
+.nav-heading{
+    position:absolute;
+    width:70px;
+    height:32px;
+    left:490px;
+    top:32px;
+}
+.nav-heading1{
+    position:absolute;
+    width:82px;
+    height:32px;
+    left:608.8px;
+    top:32px;
+    
+}
+.nav-heading3{
+    position:absolute;
+    width:105px;
+    height:32px;
+    left:738.7px;
+    top:32px;
+}
+.nav-styling{
+    position:absolute;
+    font-family: "Lab Grotesque";
+    font-style : normal;
+    font-weight:500;
+    font-size:18px;
+    line-height:32px;
+    display:flex;
+    align-items:center;
+    color:#272626;
+}
+.nav-heading4{
+    position:absolute;
+    width:76px;
+    height:32px;
+    left:875px;
+    top:32px;
+}
+
+.nav-styling1{
+    position: absolute;
+    width: 127px;
+    height: 16px;
+    left:1166px;
+    top:40px;
+    font-family: "lab grotesue";
+    font-style: normal;
+    font-weight:700;
+    font-size: 16px;
+    line-height: 16px;
+    display: flex;
+    align-items:center;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+.nav-heading5{
+    position: absolute;
+    width: 183px;
+    height: 48px;
+    left: 1137px;
+    top:24px;
+    background: #ffffff;
+    border:2px solid #2c68f6;
+    border-radius:6px;
+    align-items: center;
+    padding-left:10px;
+}
+.background-image{
+    position: absolute;
+    width:1440px;
+    height:808px;
+    left:0px;
+    top:96px;
+    background: url("/images/operation-big-bg.png");
+    border-radius: 0px;
+}
+.background-main-heading{
+    position: absolute;
+    width: 896px;
+    height: 192px;
+    left: 276px;
+    top:286px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 96px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:#ffffff;
+}
+.background-para{
+    position: absolute;
+    width: 888px;
+    height: 56px;
+    left: 286px;
+    top: 496px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:#ffffff;
+}
+
+.book-button{
+    position: absolute;
+    width: 190px;
+    height:16px;
+    left: 624.5px;
+    top:619px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+}
+.button-background{
+    position: absolute;
+    width: 234px;
+    height: 52px;
+    left: 603px;
+    top: 601px;
+    background: #2c68f6;
+    border: 2px solid #2c68f6;
+    border-radius: 6px;
+}
+.contact-sales{
+    position: absolute;
+    width:127px;
+    height: 16px;
+    left:656.5px;
+    top:677px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 500;
+    font-size:18px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;
+    color:#ffffff;
+}
+.trusted-text{
+    position: absolute;
+    width: 343px;
+    height: 32px;
+    left: 548.5px;
+    top: 960px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:#343434;
+}
+.lnt-logo{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 161.94px;
+    top: 1024px;
+}
+.airport-logo{
+    position: absolute;
+    width: 128px;
+    height: 64px;
+    left:261.94px;
+    top:1024px;
+}
+.sigma-logo{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    left: 425.94px;
+    top: 1024px;
+}
+.siemens-logo{
+    position: absolute;
+    width: 113.78px;
+    height: 64px;
+    left: 525.94px;
+    top: 1024px;
+}
+.bangalore-airport-logo{
+    position: absolute;
+    width:96px;
+    height:72px;
+    left:675.71px;
+    top:1024px;
+}
+.elgi-logo{
+    position: absolute;
+    width: 110.81px;
+    height: 49.95px;
+    left:807.71px;
+    top:1031.02px;
+}
+.manipal-hosp-logo{
+    position:absolute;
+    width:160px;
+    height: 50px;
+    left:955px;
+    top:1031px;
+}
+.mak-logo{
+    width:128px;
+    height: 64px;
+    left: 1150.06px;
+    position:absolute;
+    top:1024px;
+}
+.vector1-image-rolling{
+    position: relative;
+    top: 980px;
+    width: 189px;
+}  
+.digital-transform-heading{
+    position: absolute;
+    width: 790px;
+    height: 128px;
+    left: 120px;
+    top:1224px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    color: #262727;
+}
+.airports-subheading{
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left:120px;
+    top:1424px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color:#2c68f6;
+}
+.airport-para{
+    position: absolute;
+    width: 437px;
+    height: 48px;
+    left: 122px;
+    top: 1480px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color:#343434;
+}
+.human1{
+    position: absolute;
+    width: 784px;
+    height: 440px;
+    left: 656px;
+    top: 1424px;
+    border-radius: 48px 0px 0px 48px;
+}
+.healthcare-subheading{
+    position: absolute;
+    width: 184px;
+    height: 40px;
+    left: 120px;
+    top: 1576px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.healthcare-para{
+    position: absolute;
+    width: 433px;
+    height: 48px;
+    left: 120px;
+    top:1632px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.smart-subheading{
+    position:absolute;
+    width:205px;
+    height:40px;
+    left:120px;
+    top:1728px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.smart-para{
+    position: absolute;
+    width: 433px;
+    height: 48px;
+    left: 120px;
+    top: 1784px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.education-subheading{
+    position: absolute;
+    width:166px;
+    height:80px;
+    left:120px;
+    top:1860px;
+    font-family: "lab grotesque";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #b4b4b4;
+}
+.education-para{
+    position: absolute;
+    width: 433px;
+    height: 48px;
+    left: 120px;
+    top: 1936px;
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.manufacturing-subheading{
+    position: absolute;
+    width: 246px;
+    height: 40px;
+    left: 120px;
+    top: 2032px;
+
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    display:flex;
+    align-items: center;
+    color:#b4b4b4;
+}
+.manufacturing-para{
+    position: absolute;
+    width: 433px;
+    height: 48px;
+    left: 120px;
+    top: 2088px;  
+    font-family: 'Lab Grotesque';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    color: #B4B4B4;
+}
+.human2{
+    width: 546px;
+    height: 256px;
+    left:656px;
+    top:1880px;
+    position: absolute;
+    border-radius: 48px;
+}
+.human3{
+    position: absolute;
+    width:222px;
+    height:256px;
+    left:1218px;
+    top:1880px;
+    border-radius: 48px 0px 0px 48px;
+}
+.years-heading{
+    width: 790px;
+    height: 192px;
+    left: 125px;
+    top: 2293px;
+    position: absolute;
+    font-family: "lab grotesque";
+    font-style: norsml;
+    font-weight: 700;
+    font-size: 54px;
+}
+.years-subheading{
+    height:52px;
+    width:590px;
+    color:#343434;
+    position:relative;
+    top:2200px;
+    left:120px;
+}
+.threedots-vector{
+    height:45px;
+    width:45px;
+    color:#000000;
+    left:100px;
+    top:2020px;
+    position:relative;
+}
+.mission-critical-6cards{
+    box-sizing: border-box;
+    background: #ffffff;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    width:352px;
+    height:460px;
+    position:relative;
+    top:2200px;
+    left:120px;
+}
+.system-integration-heading{
+    font-family:"lab grotesque";
+    font-size:normal;
+    font-weight: 700;
+    line-height:32px;
+    height:80px;
+    font-size: 24px;
+    left:152px;
+    padding-top:15px;
+    padding-left:15px;
+}
+.system-integration-para{
+    font-size:16px;
+    padding-left:15px;
+    line-height:24px;
+    align-items:center;
+}
+.arrow-image{
+    height:15px;
+    width:15px;
+    top:10px;
+
+}
+.learn-more{
+    color:#2c68f6;
+    font-size: 16px;
+    padding:15px;
+    font-family: "lab grotesque";
+    font-style: normal;
+}
+.group-human-card-1{
+    width:352px;
+    height:243px;
+    left:120px;
+    top:100px;
+    border-radius: 0px 0px 24px 24px;;
+}
+
+.cloud-systems-6cards{
+    box-sizing: border-box;
+    background: #ffffff;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    width:352px;
+    height:460px;
+    position:relative;
+    top:1741px;
+    left:504px;
+}
+.group-human-card-2{
+    width:350px;
+    height:243px;
+    left:120px;
+    top:100px;
+    border-radius: 0px 0px 24px 24px;;
+}
+.data-centres-6cards{
+    box-sizing: border-box;
+    background: #ffffff;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    width:352px;
+    height:459px;
+    position:relative;
+    top:1281px;
+    left:888px;
+}
+.group-human-card-3{
+    width:350px;
+    height:243px;
+}
+.cards-part2{
+    top:91px;
+    height:460px;
+}
+.iot-6cards{
+    box-sizing: border-box;
+    width:352px;
+    height:460px;
+    left:120px;
+    top:3092px;
+    background: #ffffff;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    position: absolute;
+}
+.group-human-card-4{
+    height: 243px;
+    width:350px;
+}
+.cyber-security-6cards{
+    box-sizing: border-box;
+    width:352px;
+    height:460px;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    position: absolute; 
+    top:3092px;
+    left:504px;
+}
+.group-human-card-5{
+    height: 243px;
+    width:350px;
+}
+.enterprise-apps-6cards{
+    box-sizing: border-box;
+    width:352px;
+    height:460px;
+    border:1px solid #d9d9d9;
+    border-radius: 24px;
+    position: absolute; 
+    top:3092px;
+    left:888px;
+}
+.bg-blue-box{
+    width:1440px;
+    height:527px;
+    background: #2c68f6;
+    top:3717px;
+    left:0px;
+    position: absolute;
+}
+.first-box-diamond{
+    padding:10px;
+}
+.technology-partner-heading{
+    font-family:"lab grotesque";
+    font-weight:700;
+    font-style: normal;
+    font-size: 54px;
+    color:#ffffff;
+    width:810px;
+    height:128px;
+    left:120px;
+    top:3825px;
+    padding:50px;
+}
+.box-diamond{
+    left:1100px;
+    position: absolute;
+}
+.technology-partners-card{
+    top:4017px;
+    left:50px;
+    background: #ffffff;
+    box-shadow:0px 2px 37px rgba(0,0,0,0.1);
+    border-radius: 16px;
+    width:380px;
+    position: absolute;
+    height:380px;
+    }
+.technology-bangaloreairport-logo{
+    padding-left:17px;
+    padding-top:10px;
+}
+.technology-card1-para{
+    font-family: "lab grotesque";
+    font-weight: 400;
+    font-size:18px;
+    line-height: 26px;
+    color:#343434;
+    padding-left:20px;
+}
+.technology-card1-para1{
+    font-family: "lab grotesque";
+    text-decoration: underline;
+    font-weight:700;
+    font-size:17px;
+    position: absolute;
+    top:300px;
+    padding-left:15px;
+}
+.technology-partners-card1{
+    top:4017px;
+    left:490px;
+    background: #ffffff;
+    box-shadow:0px 2px 37px rgba(0,0,0,0.1);
+    border-radius: 16px;
+    width:380px;
+    position: absolute;
+    height:380px;
+    }
+.technology-partners-card2{
+        top:4017px;
+        left:940px;
+        background: #ffffff;
+        box-shadow:0px 2px 37px rgba(0,0,0,0.1);
+        border-radius: 16px;
+        width:380px;
+        position: absolute;
+        height:380px;
+        }
+.explore-heading{
+    color:#2c68f6;
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: "lab grotesque";
+    top:4500px;
+    height:26px;
+    width:200px;
+    left:60px;
+    position: absolute;
+}
+.explore-blue-arrow{
+    width:16px;
+    height:16px;
+    left:291px;
+    top:4500px;
+}
+.black-container{
+    width:1440px;
+    height:812px;
+    left:0px;
+    top:4655px;
+    background: #000000;
+    position: absolute;
+    font-family:"lab grotesque";
+    font-style:normal;
+}
+.black-container-heading{
+    color:#ffffff;
+    letter-spacing: -0.01em;
+    font-size:54px;
+    font-weight: 700;
+    line-height: 64px;
+    left:70px;
+    position: absolute;
+}
+.black-container-vector{
+    height:63px;
+    width:105px;
+    bottom:10%;
+    top:0%;
+    right:17%;
+    left:43%;
+    position: absolute;
+
+}
+.black-para{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    align-items: center;
+    position: absolute;
+    width:824px;
+    height: 288px;
+    left:80px;
+    top:200px;
+    color:#ffffff;
+}
+.small-man{
+    border-radius:20px;
+    width:64px;
+    height:64px;
+    left:100px;
+    top:600px;
+    position: absolute;
+}
+.black-container-para{
+    position: absolute;
+    width: 318px;
+    height: 26px;
+    left: 208px;
+    top: 630px; 
+    font-style: italic;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    color:#ffffff;
+}
+.smiley{
+    width: 41px;
+    height: 41px;
+    left:120px;
+    top:5635px;
+}
+.netcon-heading{
+    top:5635px;
+    position: absolute;
+    left:120px;
+    height:108px;
+    width:792px;
+}
+.grey-containers1{
+    width:380px;
+    height:294px;
+    left:120px;
+    top:5807px;
+    background: #f2f2f2;
+    border-radius: 16px;
+    position: absolute;
+}
+.grey-container-image1{
+    padding-top:15px;
+    padding-left:10px;
+    padding-bottom:5px;
+}
+.grey-container-heading{
+    padding:10px;
+}
+.grey-container-para{
+    padding: 10px;
+    font-size:16px;
+    font-family:"lab grotesque";
+}
+.grey-containers2{
+    width:380px;
+    height:294px;
+    left:532px;
+    top:5807px;
+    background: #f2f2f2;
+    border-radius: 16px;
+    position: absolute;
+}
+.grey-containers3{
+    width:380px;
+    height:294px;
+    left:944px;
+    top:5807px;
+    background: #f2f2f2;
+    border-radius: 16px;
+    position: absolute;
+}
+.free-container{
+    font-family: "lab grostesque";
+    font-style: normal;
+    
+}
+.free-container-heading{
+    width:538px;
+    height:16px;
+    top:6200px;
+    font-weight:700;
+    position: absolute;
+    left:120px;
+}
+.free-container-para{
+    top:6400px;
+    height:52px;
+    width:507px;
+    left:120px;
+    position: absolute;
+}
+.free-container-button{
+   top:6450px;
+   height:48px;
+   width:211px;
+   left:120px;
+   position: absolute;
+   border-radius:6px; 
+   background: #2c68f6;
+   border-color:#2c68f6;
+   color:#ffffff;
+}
+.free-container-image{
+    height:55opx;
+    width:721px;
+    top:6155px;
+    left:719px;
+    position: absolute;
+}
+.last-container{
+    height:764px;
+    width:1440px;
+    top:6800px;
+    background:#0d0e10 ;
+    position: absolute;
+    color:#ffffff;
+}
+.last-container-para{
+    padding:10px;
+    padding-left:120px;
+
+}
+.last-container-para1{
+    text-decoration: underline;
+    font-weight: 700;
+    font-family: "lab grotesque";
+    font-size: 32px;
+    padding-left:120px;
+}
+.other-container{
+    width:53px;
+    height:26px;
+    left:565px;
+    top:140px;
+
+    font-family: "lab grostesque";
+    font-weight: 400;
+    color:#ffffff;
+    font-size:12px;
+    line-height: 26px;
+    position: absolute;
+}
+.other-container-para{
+    width:100px;
+    height:30px;
+    left:565px;
+    top:170px;
+    position: absolute;
+    font-weight:700;
+    font-size:20px;
+}
+.company-container{
+    width:53px;
+    height:26px;
+    left:865px;
+    top:140px;
+
+    font-family: "lab grostesque";
+    font-weight: 400;
+    color:#ffffff;
+    font-size:12px;
+    line-height: 26px;
+    position: absolute;
+}
+.company-container-para{
+    width:100px;
+    height:30px;
+    left:865px;
+    top:170px;
+    position: absolute;
+    font-weight:700;
+    font-size:20px;
+}
+.contact{
+    width:53px;
+    height:26px;
+    left:1065px;
+    top:140px;
+
+    font-family: "lab grostesque";
+    font-weight: 400;
+    color:#ffffff;
+    font-size:12px;
+    line-height: 26px;
+    position: absolute;
+}
+.contact-container-para{
+    width:100px;
+    height:30px;
+    left:1065px;
+    top:170px;
+    position: absolute;
+    font-weight:700;
+    font-size:20px;
+}
+a{
+    color:#ffffff;
+    text-decoration: underline;
+}
+hr{
+    color:#ffffff;
+    border:1px solid;
+    background: #ffffff;
+}
+.fold{
+    width:200px;
+    font-weight: 600;
+    left:120px;
+    top:470px;
+    font-size:32px;
+    position: absolute;
+}
+.newsletter{
+    top:520px;
+    position: absolute;
+    left:120px;
+
+}
+.placeholder1{
+    border:1px solid #d9d9d9;
+    border-radius: 6px;
+    height:48px;
+    width:317px;
+    left:390px;
+    top:470px;
+    position:absolute;
+    background-color: #000000;
+    color:#ffffff;
+}
+.subscribe{
+    background: #2c68f6;
+    color:#ffffff;
+    border:2px solid #2c68f6;
+    border-radius: 0px 6px 6px 0px;
+    left:730px;
+    height:48px;
+    width:188px;
+    position: absolute;
+    top:470px;
+}
+.policy1{
+    left:120px;
+    height:26px;
+    width:83px;
+    top:590px;
+    font-size:12px;
+    font-weight:400;
+    line-height: 26px;
+    position: absolute;
+    text-decoration: underline;
+}
+.policy2{
+        left:370px;
+        height:26px;
+        width:83px;
+        top:590px;
+        font-size:12px;
+        font-weight:400;
+        line-height: 26px;
+        position: absolute;
+        text-decoration: underline;
+        font-family: "lab grotesque";
+}
+.copyright{
+    left:120px;
+    top:620px;
+    font-family: "lab grotesque";
+    font-weight: 400px;
+    font-size: 12px;
+    position: absolute;
+}
